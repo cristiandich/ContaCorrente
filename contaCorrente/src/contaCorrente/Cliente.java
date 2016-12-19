@@ -1,0 +1,7 @@
+package contaCorrente;
+
+public class Cliente {
+	public String nome;
+	public int codigo;
+
+}
